@@ -1,4 +1,0 @@
-\babel@toc {french}{}
-\beamer@sectionintoc {2}{Optimisation de la répartition des tâches}{3}{0}{1}
-\beamer@sectionintoc {3}{Optimisation des emplois du temps}{7}{0}{2}
-\beamer@sectionintoc {4}{Complétion intelligente des tournées commerciales}{10}{0}{3}
