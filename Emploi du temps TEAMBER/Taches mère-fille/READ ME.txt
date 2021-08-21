@@ -1,0 +1,16 @@
+------READ ME--------
+
+TACHES MERE-FILLE
+
+--------------------------
+
+On trouve dans ce dossier les fichiers suivants :
+
+- "Tâches mère-fille.ipynb" le fichier jupyter notebook expliquant comment planifier des tâches
+   mère-fille dans les emplois du temps d'un groupe de travail grâce à la librairie "Planning.py" que
+   j'ai rédigée.
+
+- "Planning.py" la librairie en question
+
+- "exemple_groupe_de_travail.xlsx","exemple_horaires","exemple_impératifs","exemple_TMF" qui permettent 
+  d'illuster un exemple de planification dans le fichier jupyter notebook. 

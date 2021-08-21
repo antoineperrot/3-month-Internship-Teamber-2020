@@ -1,0 +1,62 @@
+,Nom,Adresse,Dernier contact,Type,Espérance concrétisation,Département,Ajouté
+0,  SERGE MAS PROMOTION ,30 ALLEE JEAN JAURES - 31000 TOULOUSE,2020-01-17,Client,0.07,31,False
+1,  PARADIS VERT ,66 rue Carnot - 69150 Décines-Charpieu,2020-01-21,Client,0.96,69,True
+2,Agence d’architecture  Philippe Rubio Architectes ,73 Allée Sacha Guitry - 34070 Montpellier,2020-01-29,Client,0.37,34,False
+3,SARL  AKADOM ,55 avenue Louis Bréguet – Bâtiment HERMES – BAL 24 - 31400 TOULOUSE,2020-01-24,Client,0.34,31,False
+4,SAS  BETCE ,7 rue Guglielmo Marconi - 31400 Toulouse,2020-01-16,Client,0.8,31,True
+5,  PIKAIA ,367 avenue du grand arietaz - 73000 Chambery,2020-01-21,Client,0.07,73,True
+6,  ALBIN PUMP , 6 Avenue du Meyrol - 26200 Montélimar,2020-01-21,Client,0.97,26,True
+7,Cabinet  DBA CONSEIL ,52 Rue de Marclan  - 31600 MURET,2020-01-25,Client,0.4,31,True
+8,  BRENGUES LE PAVEC Architectes ,26 Allée Jules Milhau - 34000 Montpellier,2020-01-20,Client,0.03,34,True
+9,  AMBEE ,1 rue Etienne Radix - 69630 Chaponost,2020-01-17,Client,0.1,69,False
+10,  AA GROUP VALENCE ,81 rue du pont du Gat - 26000 Valence,2020-01-16,Client,0.83,26,False
+11,  R ET R CONSULTING ,12 rue des Potiers - 31320 Vieille Toulouse,2020-01-21,Client,0.99,31,False
+12,Agence d’architecture  OH!SOM ARCHITECTES  ,10 Rue Saint-Jacques - 13006  Marseille ,2020-01-30,Client,0.6,13,False
+13,Bureau d'étude  ALTEABOIS ,99 Impasse des Coteaux  - 34730  Prades-le-Lez,2020-01-19,Client,0.15,34,True
+14,  SIVOM SAGE ,45 Chemin des Carreaux   - 31120 Roques sur Garonne,2020-01-19,Client,0.2,31,False
+15,Agence d’architecture  DWA Architectes ,10 Boulevard Yves Farge  - 69007  Lyon,2020-01-30,Client,0.46,69,True
+16,Agence d’architecture  AGENCE D'ARCHITECTURE FILIATRE-MANSOUR  ,37 Rue Riquet - 31000  Toulouse ,2020-01-16,Client,0.94,31,False
+17,Agence d’architecture  Thorel et associés  ,6 Chemin de Brunet - 13100  Aix-en-Provence ,2020-01-30,Client,0.97,13,True
+18,  Bpi France ,24 avenue Georges Pompidou BP63379 - 31133 BALMA,2020-01-17,Client,0.6,31,True
+19,Bureau d'étude  Bureau d'Etudes Techniques Mouton (BETM) ,97 Rue Grieg - 30900  Nîmes ,2020-01-19,Client,0.72,30,False
+20,Bureau d'étude  Gapira Ingénierie  ,125 Rue de l'Hostellerie - 30900  Nîmes ,2020-01-27,Client,0.15,30,True
+21,Agence d’architecture  Atelier 4 + ,84 rue Borde - 13008 Marseille,2020-01-23,Client,0.25,13,True
+22,M. Jacques Delarocque ,2 rue Pasteur - 12000 Rodez,2020-01-20,Client,0.36,12,False
+23,  ROTARY CLUB LAMASQUERE PAYS DE MURET ,113 boulevard de Lamasquère - 31600 MURET,2020-01-26,Client,0.28,31,True
+24,  EDEIS ,Parc Club Bat 7   78 chemin des sept deniers CS 1A0405 - 31204 Toulouse,2020-01-28,Client,0.96,31,True
+25,M. Stéphane Bruneton ,La Lauragaise Route de Baziège - 31670 Labège,2020-01-17,Client,0.31,31,False
+26,Mme Karine Severac ,Maison des professions libérales  285 rue Alfred Nobel - 34000 Montpellier,2020-01-20,Client,0.26,34,False
+27,SA  Mazeres Aero Equipment ,2 avenue Clement Ader BP40162 - 31774 Colomiers,2020-01-30,Client,0.3,31,False
+28,SARL  Relais d'entreprises ,10 Rue de la Tour de Guet   - 31310 Rieux Volvestre,2020-01-27,Client,0.12,31,False
+29,  TECHNISPHERE ,Place Paul Riche - 31200 TOULOUSE,2020-01-28,Client,0.09,31,True
+30,SARL  ART-CAM ARCHITECTURES ,1 Rue du 35ÈME Régiment d'Aviation - 69500 BRON,2020-01-21,Client,0.05,69,True
+31,M. Etienne Bertaud du Chazaud ,2 bis avenue de Lombez - 31300 Toulouse,2020-01-29,Client,0.07,31,True
+32,Bureau d'étude  B.E.T.E.R.U (Bureau Etudes Techniques d'Equipement Rural et Urbain)  ,Les Landes  - 31850  MONDOUZIL,2020-01-23,Prospect,0.49,31,True
+33,Bureau d'étude  SARL ARTES ,534 Rue Marius Petipa - 34080  Montpellier ,2020-01-20,Prospect,0.06,34,True
+34,  APACHES ARCHITECTES ,21 Rue des Balances - 34000 Montpellier,2020-01-21,Prospect,0.9,34,True
+35,SARL  LABSOFT ,Bâtiment ACTYS I  55 Voie l'Occitane - 31673 LABEGE INNOPOLE CEDEX,2020-01-19,Prospect,0.15,31,True
+36,Agence d’architecture  C.F.L Architecture ,17 Avenue du Colonel Schuler - 13100  Aix-en-Provence,2020-01-29,Prospect,0.29,13,False
+37,M. Thibaud Santantonio ,30 rue du Lac - 69442 Lyon Cedex 3,2020-01-28,Prospect,0.82,69,True
+38,Bureau d'étude  SOL.A.I.R ,47 Boulevard de la République - 13100  Aix-en-Provence ,2020-01-19,Prospect,0.24,13,True
+39,  KEO FLUIDES ,Siège social   1 montée de la Butte - 69001 Lyon,2020-01-21,Prospect,0.41,69,True
+40,Bureau d'étude  B.E. 63  ,70 Rue des Varennes - 63170  Aubière ,2020-01-28,Prospect,0.0,63,True
+41,Agence d’architecture  Vernay-faure Architecture  ,ZAC de Claveloux 9 Rue Claude Burdin - 63000  Clermont-Ferrand ,2020-01-30,Prospect,0.58,63,False
+42,Agence d’architecture  Marcillon Thuilier Architecte (MTA) ,13 Place Delille - 63000  Clermont-Ferrand ,2020-01-29,Prospect,0.22,63,True
+43,SA  S.I.E.R SOCIETE INDUSTRIELLE ETUDES ET REALISATION ,69 Av de Cornebarrieu Technoclub A - 31700 BLAGNAC,2020-01-16,Prospect,0.96,31,False
+44,  GROUPE ATRIUM , 5 Rue de la Télématique - 42000 Saint Etienne,2020-01-26,Prospect,0.1,42,False
+45,Bureau d'étude  GÉOVAL ,38 Rue de Sarliève - 63800  Cournon-d'Auvergne ,2020-01-28,Prospect,0.86,63,True
+46,Bureau d'étude  BATISERF  ,11 Boulevard Paul Langevin - 38600  Fontaine ,2020-01-24,Prospect,0.77,38,False
+47,Agence d’architecture  Séquences ,51 bis rue des Amidonniers - 31080 Toulouse,2020-01-26,Prospect,0.07,31,False
+48,Mme Magalie Morlat-Martos ,1 Place Saint Etienne - 31038 Toulouse Cedex 9,2020-01-23,Prospect,0.12,31,False
+49,  AUDIT TELECOM ,Responsable Agence 31  29 chemin Saint Pierre - 31170 TOURNEFEUILLE,2020-01-24,Prospect,0.14,31,True
+50,  MUTUELLE PRÉVIFRANCE  ,80 rue matabiau - 31012 Toulouse ,2020-01-22,Prospect,0.18,31,False
+51,Mme Karine Labbe ,60 boulevard de Thibaud - 31100 Toulouse,2020-01-22,Prospect,0.83,31,True
+52,Mme Céline Rigole ,2 allée Victor Hugo - 31240 Saint Jean,2020-01-22,Prospect,0.8,31,False
+53,SAS  SERIANS ,14 rue Michel Labrousse - 31100 TOULOUSE,2020-01-24,Prospect,0.08,31,True
+54,SARL  OTCE INFRA ,4 B Chemin Benech   - 31470 Fonsorbes,2020-01-29,Prospect,0.58,31,False
+55,M. Patrick Houbron ,9 avenue des Pyrénées - 31240 L'Union,2020-01-26,Prospect,0.09,31,False
+56,  SJR LABELS ,26 rue de la colombette - 31000 Toulouse,2020-01-20,Prospect,0.64,31,False
+57,Agence d’architecture  AGREGA Architectes ,13 Rue du Général de Miribel - 69007  Lyon,2020-01-26,Prospect,0.48,69,False
+58,  GBMP ,Bd Marcel Paul  ZI de Pahin - 31170 TOURNEFEUILLE,2020-01-23,Prospect,0.34,31,False
+59,Agence d’architecture  L'Atelier Architectes ,555 Chemin du bois - 69140 Rillieux la Pape,2020-01-20,Prospect,0.98,69,False
+60,Société  Tisseo ,4 impasse Paul Mesplé - 31081 Toulouse Cedex 1,2020-01-29,Prospect,0.38,31,False

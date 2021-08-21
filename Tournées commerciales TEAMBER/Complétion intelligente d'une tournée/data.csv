@@ -1,0 +1,90 @@
+,Nom,Adresse,Type,Latitude,Longitude
+0,Départ de Muret,113 Boulevard de Lamasquère 31600 Muret,RDV,43.468974,1.3103679
+1,Foire MARSEILLE,Marseille Chanot,RDV,43.2727053,5.3947416
+2,Foire LYON,Eurexpo Lyon,RDV,45.731008,4.951442999999999
+3,Expo Brive la gaillarde,gare de Brive la Gaillarde,RDV,45.1525602,1.528619
+4,Retour Muret,113 Boulevard de Lamasquère 31600 Muret,RDV,43.468974,1.3103679
+5,SARL  ENZO & ROSSO ,113 boulevard de Lamasquère - 31600 Muret,Client,43.468974,1.3103679
+6,  ARCHITECTE D.E.S.A ,29 bis Boulevard Deltour  - 31500 Toulouse ,Client,43.59281989999999,1.4717384
+7,  PRO2 archicteurs ,44 av paul sabatier - 11100 Narbonne,Client,43.156265,2.968142
+8,M. Romain d'Ortoli ,331 Promenade de la corniche - 13007 Marseille,Client,43.2733808,5.3630594
+9,  CADWARE ,30 avenue de Fronton - 31200 TOULOUSE,Client,43.6289227,1.4341256
+10,  Carta Associés ,20 rue Saint Jacques - 13006 Marseille,Client,43.2891427,5.3803262
+11,SARL  ECOTONE RECHERCHE ET ENVIRONNEMENT ,4065 route de Baziège-La Lauragaise - 31670 Labège,Client,43.5545822,1.5060714
+12,Société  TPFI ,Immeuble Le Balthazar  2 quai d’Arenc - 13002 Marseille,Client,43.3127065,5.3668551
+13,  OPCoach ,15 bis rue des Troubadour - 31270 Cugnaux,Client,43.5527417,1.3596468
+14,  ERGOTEC ,213 Avenue de Muret - 31300 Toulouse,Client,43.5894643,1.4317672
+15,SAS  SECHI DI NULVI - Nom commercial OCT-OPC ,30 rue du progrès - 13005 MARSEILLE,Client,43.2967799,5.391284100000001
+16,Entreprise  AVIVA ASSURANCE ,14 ALLEE NIEL BP 89 - 31604 MURET CEDEX,Client,43.4620338,1.3189469
+17,Bureau d'étude  IB2A Ingénierie Béton Armé d'Auvergne  ,16 Rue des Frères Lumière - 63100  Clermont-Ferrand ,Client,45.7854471,3.1288662
+18,Bureau d'étude  SYLVA CONSEIL  ,66 Rue des Courtiaux - 63000  Clermont-Ferrand ,Client,45.7684054,3.1308281
+19,Mme Emilie SIGOGNE ,8 rue Claude Marie Perroud - Bâtiment le Colombia - 31100 TOULOUSE,Client,43.5755647,1.381313
+20,Bureau d'étude  LOGIBAT  ,180 Rue Guy Arnaud - 30000  Nîmes ,Client,43.83254609999999,4.329822099999999
+21,Bureau d'étude  BUREAU D'ETUDES TECHNIQUES YVES GARNIER  ,28 Rue Petit Chantier - 13007  Marseille ,Client,43.2906688,5.3685095
+22,Bureau d'étude  CHORUS INGENIERIE  ,217 Rue de Rome - 13006  Marseille ,Client,43.28660730000001,5.3835704
+23,Bureau d'étude  PRELEM ,170 Bvd Stalingrad - 69 451  LYON,Client,45.7703452,4.8583222
+24,Agence d’architecture  HTVS Architecture ,28 Avenue René Cassin - 69009  Lyon,Client,45.769248,4.806995
+25,Agence d’architecture  Tourret Jonery Architectes ,3 rue des Antonins - 69005 Lyon,Client,45.7615523,4.8265866
+26,Agence d’architecture  Tekhnê Architecture  ,43 rue des Hérideaux  - 69008  Lyon,Client,45.7391839,4.8649735
+27,Agence d’architecture  Atelier Arché ,77 RUE DUQUESNE  - 69006  LYON,Client,45.7732435,4.849503599999999
+28,Agence d’architecture  MY Architectes SOUVIRON LACOMBE PESSANT ,5 Rue de la charité - 31000  Toulouse,Client,43.6001935,1.4553826
+29,SA  SETI ,Voie 5 Innopole BP46 - 31319 Labège Cedex,Client,43.5470119,1.5134121
+30,M. Guillaume Blasselle ,60 boulevard de Thibaud - 31100 Toulouse,Client,43.5453145,1.3970341
+31,Société  MB2 Conseil ,18 bis rue Bernard Mulé - 31400 Toulouse,Client,43.596632,1.4577032
+32,M. Didier Bonnin ,18 bis rue Bernard Mulé - 31400 Toulouse,Client,43.596632,1.4577032
+33,Agence d’architecture  CLN Architecture ,546 rue Etienne Lenoir - 30900 Nimes,Client,43.8090049,4.3342527
+34,Agence d’architecture  AMPM ,5 avenue Mercure - 31130 Quint Fonsegrives,Client,43.5797344,1.512104
+35,Mme Corinne Stefani ,65 rue du Chene Vert - 31670 Labege,Client,43.5391062,1.5221485
+36,Agence d’architecture  H.T.V.S Architecture ,2 rue de la Gare - 69009 Lyon,Client,45.7791878,4.8014388
+37,Agence d’architecture  MAP Marseille Architecture Partenaires ,4 Place Sadi Carnot - 13002 Marseille,Client,43.2996308,5.371995399999999
+38,Atelier d'architecture  331 Corniches Architectes ,331 Promenade de la corniche - 13007 Marseille,Client,43.2733808,5.3630594
+39,SA  BETEM ,6 impasse Alphonse Bremond - 31500 Toulouse,Client,43.6415241,1.471482
+40,M. Bruno Marin ,ZAC De Montblanc 6 impasse Alphonse Brémond  - 31200 Toulouse,Client,43.6415241,1.471482
+41,SA  Colas Sud Ouest ,101 rue de Fenouillet  - 31017 Toulouse,Client,43.6319471,1.4223804
+42,  Dumons Ingénierie ,77 allée de Brienne - 31000 Toulouse,Client,43.6079032,1.425168
+43,M. Remy GAILLARD ,25 rue Joannes Carret - 69009 Lyon,Client,45.7929335,4.8195774
+44,M. Stéphane ZANON ,113 BD DE LAMASQUERE - 31600 MURET,Client,43.468974,1.3103679
+45,Société  AD-VISEO ,18 rue Sainte Cécile  - 31100 TOULOUSE,Client,43.5763471,1.4202636
+46,Mairie de  Toulouse ,1 Place du Capitole - 31000 Toulouse,Client,43.6038238,1.4442056
+47,M. Anthony SIMON ,Mini Parc Bat 3 3 chemin du Jubin - 69570 Dardilly,Client,45.8138967,4.759383
+48,Bureau d'étude  ELEYS ,51 Rue Emile Decorps - 69100  Villeurbanne,Prospect,45.7563253,4.8999092
+49,Bureau d'étude  KORELL ,17 Rue Georges Perret  - 69160  Tassin-la-Demi-Lune,Prospect,45.7631817,4.780105799999999
+50,Agence d’architecture  AGENCE D'ARCHITECTURE FILIATRE-MANSOUR  ,37 Rue Riquet - 31000  Toulouse ,Prospect,43.603473,1.4540985
+51,Bureau d'étude  Gapira Ingénierie  ,125 Rue de l'Hostellerie - 30900  Nîmes ,Prospect,43.8133984,4.344912799999999
+52,Agence d’architecture  MPM Archi – SAS d’architecture  ,Batiment L’Alphatis  55 Allée de l'Argentine - 30000  Nîmes ,Prospect,43.8197748,4.354752899999999
+53,Agence d’architecture  HB MORE ARCHITECTES  ,9 Quai de la Fontaine  - 30900  Nîmes,Prospect,43.8389996,4.3541379
+54,Agence d’architecture  Architecture Brayer Hugon  ,5 Rue Auguste - 30000  Nîmes ,Prospect,43.838898,4.3557968
+55,M. Jean Marc El Ahdab ,1288 l'Occitane CS27629 - 31676 Labège Cedex,Prospect,43.541173,1.509959
+56,Bureau d'étude  Bureau d'Etudes Bertoli-Gimond  ,87 Avenue de Saint-Julien - 13012  Marseille ,Prospect,43.3067079,5.4208172
+57,Bureau d'étude  AXIOLIS  ,210 avenue de Toulon - 13010  Marseille ,Prospect,43.284445,5.3952735
+58,Agence d’architecture  SARL SOCIETE D'ARCHITECTURE REMY SAADA  ,30 Rue Louis Rège - 13008  Marseille ,Prospect,43.281272,5.391288299999999
+59,  R ET R CONSULTING ,12 rue des Potiers - 31320 Vieille Toulouse,Prospect,43.5299596,1.4440093
+60,  IDP Architectes ,8 rue Joseph Vié - 31300 TOULOUSE,Prospect,43.59742869999999,1.4323369
+61,  TECHNISPHERE ,Place Paul Riche - 31200 TOULOUSE,Prospect,43.647346,1.432483
+62,  Ville de Saint Priest ,Centre technique municipal 87 rue Aristide Briand - 69800 Saint Priest,Prospect,45.6960611,4.9223257
+63,Agence d’architecture  MUSTANG ARCHITECTURE ET DESIGN  ,866 Avenue Marechal Juin - 30900  Nîmes ,Prospect,43.8208079,4.3463425
+64,Agence d’architecture  ARCHI 3A  ,Z.I. Brezet Est - 9 Rue Didier Daurat - 63100  Clermont-Ferrand ,Prospect,45.7877097,3.1417432
+65,Bureau d'étude  AMENAGEMENT DU TERRITOIRE ET TECHNIQUES DU BATIMENT (ATTB)  ,96 Boulevard Marius Vivier Merle - 69003  Lyon ,Prospect,45.7538414,4.858954
+66,Agence d’architecture  ARCHIGROUP ,411 allée des noisetiers - 69760 Limonest,Prospect,45.8152669,4.7734724
+67,Mme Danièle Gueldry Rebiscoul ,298 allée du Lac Bat XI CS27620 - 31676 Labège ,Prospect,43.5350104,1.5150317
+68,Bureau d'étude  C.D.2.I  ,13 Rue André Villet - 31400  Toulouse ,Prospect,43.564712,1.4955637
+69,SARL  OREALYS ,27 AVENUE MERCURE - 31130 QUINT-FONSEGRIVES,Prospect,43.5805606,1.5210947
+70,  IOT Valley ,231 rue Pierre et Marie Curie - 31670  Labège,Prospect,43.5458656,1.5136387
+71,Agence d’architecture  Touzet ,22 avenue de l'URSS - 31400 Toulouse,Prospect,43.5824601,1.4488101
+72,  MEDEF 31 ,11 bd des Récollets Immeuble Le Belvédère 6 ème étage  - 31078 Toulouse,Prospect,43.5844712,1.4404134
+73,  CM CIC Leasing ,17 avenue Didier Daurat - 31700 Blagnac,Prospect,43.6305683,1.3778628
+74,Agence d’architecture  W ARCHITECTURES ,30 rue du Languedoc - 31000 Toulouse,Prospect,43.5965817,1.4458477
+75,M. Samuel Touzet ,22 avenue de l'URSS - 31400 Toulouse,Prospect,43.5824601,1.4488101
+76,  CFA BILLIERES BUSINESS SCHOOL ,27 RUE INGRES - 31000 TOULOUSE,Prospect,43.6144914,1.4428083
+77,  UNANIIME ,44 Boulevard de Strasbourg - 31000 TOULOUSE,Prospect,43.6090936,1.4456023
+78,  RH to You ,6 impasse René Couzinet - 31500 Toulouse,Prospect,43.5824922,1.4917265
+79,M. Cédric Carbonnelle ,60 boulevard de Thibaud BP 48484 - 31084 Toulouse,Prospect,43.5453145,1.3970341
+80,  BIGSO ,24 Rue André Vasseur    - 31200 Toulouse,Prospect,43.6352,1.4727018
+81,  FIDAL Avocats ,Central Park 2  9 avenue Parmentier - 31000 Toulouse,Prospect,43.614335,1.4298415
+82,Mme Véronique Mercier  ,Immeuble Le Bayard 3 place Pierre Paul Renaudel - 69003 Lyon,Prospect,45.7568834,4.8570581
+83,SAS  GARCIA INGENIERIE ,164 Chemin Saint Jean du désert - 13005 Marseille,Prospect,43.2940506,5.4124843
+84,M. Stéphane Bruneton ,La Lauragaise Route de Baziège - 31670 Labège,Prospect,43.5418129,1.5216645
+85,Agence d’architecture  AAMCO ,20 Rue Octavie - 69100  Villeurbanne,Prospect,45.7804961,4.8878198
+86,M. Laurent Caballero ,1149 La Pyrénéeene Innopolis A 2ème étage - 31670 Labège,Prospect,43.5453667,1.5039279
+87,  MUTUELLE PRÉVIFRANCE  ,80 rue matabiau - 31012 Toulouse ,Prospect,43.61318199999999,1.4500012
+88,M. Axel Letellier ,43 rue Riquet - 31000 Toulouse,Prospect,43.604017,1.4541041

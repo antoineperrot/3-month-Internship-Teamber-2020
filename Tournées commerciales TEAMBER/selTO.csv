@@ -1,0 +1,68 @@
+,Nom,Adresse,Type,Département,Ajouté,Latitude,Longitude
+0,  IMBERNON ,280 bdv Michelet  - 13008 Marseille,Client,13,False,43.261708,5.3962455
+1,  MP2018 ,40 rue de la république - 13001 Marseille,Client,13,False,43.2990361,5.372289299999999
+2,Entreprise  EDELEN ,POLE ALPHA SUD - ZI ST MITRE  85 AV DE LA ROCHE FOURCADE - 13683 AUBAGNE,Client,13,False,43.284854,5.537783
+3,  AI project ,9 Avenue de la Capelette - 13010  Marseille,Client,13,False,43.2836929,5.3992483
+4,  ITCOM Services ,11 place Général de Gaulle - 13001 Marseille,Client,13,False,43.2947558,5.3764112
+5,SA  Ingerop Méditerranée ,Ilot Allar 7 rue du devoir Bat C 4ème étage - 13344 Marseille Cedex 15,Client,13,False,43.323637,5.3653531
+6,Agence d’architecture  TOGU ,149 rue de Paradis - 13006 Marseille,Client,13,False,43.2873071,5.3795283
+7,SAS  GARCIA INGENIERIE ,164 Chemin Saint Jean du désert - 13005 Marseille,Client,13,False,43.2940506,5.4124843
+8,M. Romain d'Ortoli ,331 Promenade de la corniche - 13007 Marseille,Client,13,False,43.2733808,5.3630594
+9,M. Olivier Garcia ,164 chemin Saint Jean du Désert - 13005 MARSEILLE,Client,13,False,43.2940506,5.4124843
+10,M. Alain Anselme ,22 avenue André Roussin Immeuble Xanadu - 13016 Marseille,Client,13,False,43.3559734,5.338479
+11,SARL  WATT ,164 chemin Saint Jean du désert - 13005 Marseille,Client,13,False,43.2940506,5.4124843
+12,Agence d’architecture  Atelier Empreinte ,297 Avenue du Mistral   ZI ATHELIA IV  - 13600 LA CIOTAT,Client,13,False,43.2085083,5.5982036
+13,SAS  CEREG TERRITOIRES ,260 AVENUE DU COL DE L'ANGE  - 13420 GEMENOS,Client,13,False,43.2798109,5.623979
+14,Bureau d'étude  A-CORROS  ,17 chemin de séverin - 13200  Arles ,Client,13,False,43.6785825,4.6032505
+15,Bureau d'étude  BUREAU D'ETUDES TECHNIQUES PAQUOT (BETP)  ,43 Rue Roger Salengro - 13890  Mouriès ,Client,13,False,43.6902771,4.8673598
+16,Bureau d'étude  INGENIERIE ET CONSEILS  ,31 Avenue Paul Cézanne - 13090  Aix-en-Provence ,Client,13,False,43.5406533,5.4454937
+17,Bureau d'étude  Bureau d'Etudes Bertoli-Gimond  ,87 Avenue de Saint-Julien - 13012  Marseille ,Client,13,False,43.3067079,5.4208172
+18,Bureau d'étude  AXIOLIS  ,210 avenue de Toulon - 13010  Marseille ,Client,13,False,43.284445,5.3952735
+19,Bureau d'étude  COFEX  ,5 - 7 Rue des Lauriers Roses - 13010  Marseille ,Client,13,False,43.277818,5.4357421
+20,Bureau d'étude  IDEM  ,74 Avenue de Mazargues - 13008  Marseille ,Client,13,False,43.2677104,5.389037
+21,Bureau d'étude  CONSEIL INGENIERIE ACOUSTIQUE (CIA)  ,263 avenue de St-Antoine - 13015  Marseille ,Client,13,False,43.3759972,5.3557859
+22,Bureau d'étude  I2C  ,1217 Route Enco de Botte - 13190  Allauch ,Client,13,False,43.32349860000001,5.478431
+23,Bureau d'étude  CHORUS INGENIERIE  ,217 Rue de Rome - 13006  Marseille ,Client,13,False,43.28660730000001,5.3835704
+24,Bureau d'étude  CONCEPTION ET INGENIERIE DU BATIMENT (CIB)  ,146 Rue Rabelais - 13016  Marseille ,Client,13,False,43.3597283,5.3319313
+25,Bureau d'étude  CEC WRD  ,Bureaupole bat A 2 Av. Elsa Triolet - 13008  Marseille ,Client,13,False,43.2500868,5.3858109
+26,Bureau d'étude  TECHNOV  ,80 Boulevard de la Comtesse - 13012  Marseille ,Client,13,False,43.3163749,5.4474751
+27,Bureau d'étude  SECOBAT SUD  ,8 Boulevard Vincent Delpuech - 13008  Marseille ,Client,13,False,43.2830934,5.3878407
+28,Agence d’architecture  BUREAU-ARCHIT-MEDITER SARL ARCHITECTURE (B A M)  ,14-18 Rue de la Guirlande - 13002  Marseille ,Client,13,False,43.2969833,5.3703505
+29,Agence d’architecture  CARTA ARCHITECTES  ,193 Rue de Rome - 13006  Marseille ,Client,13,False,43.2874205,5.3830969
+30,Agence d’architecture  CORINNE VEZZONI ET ASSOCIES  ,263 Corniche Président John Fitzgerald Kennedy - 13007  Marseille ,Client,13,False,43.2809815,5.3525985
+31,Agence d’architecture  MOA ARCHITECTURE  ,83 Rue d'Endoume - 13007  Marseille ,Client,13,False,43.2872797,5.3651298
+32,Agence d’architecture  UNIC Architecture - Adrien Champsaur Architecture et associés  ,51 Rue du Coq - 13001  Marseille ,Client,13,False,43.3012378,5.3860851
+33,Agence d’architecture  OH!SOM ARCHITECTES  ,10 Rue Saint-Jacques - 13006  Marseille ,Client,13,False,43.2893295,5.380929600000001
+34,Agence d’architecture  DEPOIZIER-CREST ARCHITECTES ET ASSOCIES  ,30 boulevard de la Libération - 13001  Marseille ,Client,13,False,43.29965809999999,5.387345499999999
+35,Agence d’architecture  Agence Jerome Siame Architectes  ,1297 Ancienne Route des Alpes - 13100  Aix-en-Provence ,Client,13,False,43.5539601,5.4582719
+36,Agence d’architecture  POISSONNIER FERRAN & ASSOCIES ,9 rue Mazenod - 13002  Marseille,Client,13,False,43.3017123,5.3652961
+37,Agence d’architecture  RUE BLEUE ARCHITECTURE ,31 avenue pasteur - 13007 Marseille,Client,13,False,43.2903568,5.359426699999999
+38,Bureau d'étude  SOL.A.I.R ,47 Boulevard de la République - 13100  Aix-en-Provence ,Client,13,False,43.5287418,5.440338300000001
+39,Bureau d'étude  Strada Ingénierie ,4 Place Coimbra - 13090  Aix-en-Provence,Client,13,False,43.5253026,5.4373565
+40,Agence d’architecture  MAP Marseille Architecture Partenaires ,4 Place Sadi Carnot - 13002 Marseille,Client,13,False,43.2996308,5.371995399999999
+41,Bureau d'étude  AD2i  ,70 Rue de la tramontane - 13090  Aix-en-Provence ,Prospect,13,False,43.52738360000001,5.4060859
+42,Atelier d'architecture  Atelier Stéphane Fernandez  ,965 Chemin Pierre Pascalis - 13100  Aix-en-Provence ,Prospect,13,False,43.5628169,5.4745658
+43,Agence d’architecture  Quadrarchi ,810 Chemin de Saint-Jean de Malte - 13080  Aix-en-Provence ,Prospect,13,False,43.5046004,5.4128136
+44,Agence d’architecture  C.F.L Architecture ,17 Avenue du Colonel Schuler - 13100  Aix-en-Provence,Prospect,13,False,43.5137274,5.4404579
+45,Agence d’architecture  Thorel et associés  ,6 Chemin de Brunet - 13100  Aix-en-Provence ,Prospect,13,False,43.5343657,5.4366515
+46,M.  DMI Provence  ,298 Avenue du Club Hippique  - 13090 Aix-en-Provence ,Prospect,13,False,43.5149178,5.4331516
+47,Bureau d'étude  MEDIATERRE CONSEIL  ,352 Avenue du Prado - 13008  Marseille ,Prospect,13,False,43.2711201,5.3885035
+48,Bureau d'étude  IPREV bureau d'étude en ingénierie de la sécurité  ,111 Traverse de la Montre - 13011  Marseille ,Prospect,13,False,43.2982269,5.4760422
+49,Agence d’architecture  NAOM (New Architect Of Marseille)  ,467 Avenue de Mazargues - 13008  Marseille ,Prospect,13,False,43.2570653,5.3943198
+50,Agence d’architecture  CABINET D'ARCHITECTE MAZZELLA MAGALI  ,Résidence Claudel Parc Bat E - 151 Boulevard Paul Claudel - 13010  Marseille ,Prospect,13,False,43.2689481,5.4162463
+51,Agence d’architecture  C.A.D. DURAND (CABINET D'ARCHITECTURE ET DE DESIGN GILLES DURAND ARCHITECTE D P L G)  ,81 Rue Monte Cristo - 13004  Marseille ,Prospect,13,False,43.2996786,5.3961843
+52,Bureau d'étude  BUREAU D'ETUDES TECHNIQUES YVES GARNIER  ,28 Rue Petit Chantier - 13007  Marseille ,Prospect,13,False,43.2906688,5.3685095
+53,Agence d’architecture  SARL SOCIETE D'ARCHITECTURE REMY SAADA  ,30 Rue Louis Rège - 13008  Marseille ,Prospect,13,False,43.281272,5.391288299999999
+54,Agence d’architecture  Atelier 4 + ,84 rue Borde - 13008 Marseille,Prospect,13,False,43.2795147,5.3935933
+55,Mme Alice Quille ,7/9 rue Jean Mermoz - 13008 Marseille,Prospect,13,False,43.2777226,5.3875592
+56,Agence d’architecture  Tangram Architectes ,10 Rue Virgile Marron   - 13005 Marseille,Prospect,13,False,43.2901367,5.3906575
+57,  CITÉQUIP ,96 boulevard de l'Europe - 13127 Vitrolles,Prospect,13,False,43.4209331,5.2653966
+58,  Ingénierie Développement Management ,19 Quai Rive neuve - 13007 Marseille,Prospect,13,False,43.2929465,5.3702476
+59,Société  TPFI ,Immeuble Le Balthazar  2 quai d’Arenc - 13002 Marseille,Prospect,13,False,43.3127065,5.3668551
+60,  Carta Associés ,20 rue Saint Jacques - 13006 Marseille,Prospect,13,False,43.2891427,5.3803262
+61,M. Jean Luc Perez ,24 avenue du Prado - 13006 Marseille,Prospect,13,False,43.2841437,5.384360099999999
+62,SAS  SECHI DI NULVI - Nom commercial OCT-OPC ,30 rue du progrès - 13005 MARSEILLE,Prospect,13,False,43.2967799,5.391284100000001
+63,M. David BRUZZESE ,22 avenue André Roussin Immeuble Xanadu - 13006 Marseille,Prospect,13,False,43.3559729,5.3383639
+64,Agence d’architecture  BLUTEAU ET NASSIF ,4 Avenue Braye de Cau - 13400  Aubagne,Prospect,13,False,43.2834678,5.5334283
+65,Agence d’architecture  TECHNI ARCHITECTURE ,265 Avenue de Mazargues - 13008  Marseille,Prospect,13,False,43.262526,5.393296299999999
+66,Mme Catherine Diffalah ,Siège Social  50 rue Breteuil - 13006 Marseille,Prospect,13,False,43.2888238,5.3763494

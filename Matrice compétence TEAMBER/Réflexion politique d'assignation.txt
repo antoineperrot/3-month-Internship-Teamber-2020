@@ -1,0 +1,14 @@
+Pour l'assignation des tâches,
+
+Afin de décider si la tâche T de durée D qui appartient au projet PJ et qui nécessite la compétence C peut être réalisée par la personne P,
+
+j'imagine deux approches :
+
+1 : Dès lors que le niveau de compétence de P pour C est > 0.
+2 : Dès lors que le niveau de compétence de P pour C est > 0 et que P est sur le projet PJ.
+
+Si l'on choisit l'approche 1, on favorisera ensuite le fait d'être en plus sur le projet.
+
+Si l'on choisit l'approche 2, plus restrictive, on risque de se retrouver avec des heures de travail non assignées. Alors à ce moment là
+on pourra ré-assigner ces heures de travail en oubliant la composante projet.
+
